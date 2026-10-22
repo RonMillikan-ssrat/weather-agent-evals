@@ -4,3 +4,4 @@ __pycache__/
 data/
 *.nc
 .DS_Store
+orig.requirements.txt
