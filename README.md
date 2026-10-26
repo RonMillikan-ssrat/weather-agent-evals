@@ -9,9 +9,9 @@ directly from the data.
 | Component | State |
 |---|---|
 | MCP server (`server.py`): `describe_data`, `compute_stat`, `get_timeseries` | Done |
-| Agent loop (hand-written, no framework) | In progress |
-| Eval suite (ground truth from xarray) | Planned |
-| Local vs. API model comparison | Planned |
+| Agent loop (hand-written, no framework) | Done |
+| Eval suite (ground truth from xarray) | Done |
+| Local vs. API model comparison | Done |
 
 ## Data
 
